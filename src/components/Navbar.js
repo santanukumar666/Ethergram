@@ -8,7 +8,7 @@ class Navbar extends Component {
     return (
       <nav className="navbar navbar-dark  fixed-top p-0 shadow" style={{ background: '#99DCE2' }}>
         <a
-          className="navbar-brand ml-5"
+          className="navbar-brand ml-3"
 
 
 
